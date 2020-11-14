@@ -5,4 +5,4 @@ DJ-2001
 Online garage sale for neighborhood (final project)
 Database for online ad platform that brings people together to buy, sell, or exchange utilized things
 
-![Alt text](relative/path/to/img.jpg?raw=true "ERD.jpg")
+![Alt text](relative/path/to/img.jpg?raw=true "ERD")
